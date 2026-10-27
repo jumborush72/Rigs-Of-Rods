@@ -211,4 +211,4 @@ Rigs of Rods is offered as a **full free version**, ensuring all features and up
 Get started with Rigs of Rods today and experience the most realistic driving simulator available!
 
 ---
-**Last updated:** 2026-10-27 07:27:59 UTC
+**Last updated:** 2026-10-27 14:07:23 UTC
